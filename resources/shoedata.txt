@@ -1,0 +1,101 @@
+INSERT INTO `shoedata`(`Name`, `Cost`, `p1`, `p2`, `p3`, `p4`) VALUES ('Tory Burch Metal Miller',228,'The Metal Miller sandal by Tory Burch® adds bold refinement to your signature-look!','Upper is constructed of genuine leather.','Tory Burch® emblem adorns the upper.','Easy slip-on design with classic thong-strap styling.')
+INSERT INTO `shoedata`(`Name`, `Cost`, `p1`, `p2`, `p3`, `p4`) VALUES ('ALDO Gaclya',84.95,'A sleek silhouette you can wear day or night.','Heeled sandals feature an interwoven leather upper.','Ankle strap with buckle closure.', 'Open-toe silhouette.')
+INSERT INTO `shoedata`(`Name`, `Cost`, `p1`, `p2`, `p3`, `p4`) VALUES ('Blue by Betsey Johnson Mari Heeled Sandal',109,'Step in the room and shine in the stunning BLUE™ by Betsey Johnson Mari Heeled Sandals.','Upper made of fabric with sparkling rhinestone detail.','Buckle closure at ankle.', 'Synthetic lining.')
+INSERT INTO `shoedata`(`Name`, `Cost`, `p1`, `p2`, `p3`, `p4`) VALUES ('SOREL Out N About™ Plus Sneaker',94.95,'Don\'t let clouds or light rain stop you in your tracks. Rock the SOREL® Out N About™ Plus Sneakers and head outside.','Waterproof suede or textile upper.','Bootie construction with front and rear pull-tabs.', 'Lace-up closure.')
+INSERT INTO `shoedata`(`Name`, `Cost`, `p1`, `p2`, `p3`, `p4`) VALUES ('adidas Originals U_Path Run W',85,'Make tracks with the sporty style of the adidas® Originals U_Path Run W.','Stretch knit upper offers a lightweight feel with a sleek finish.','Bootie construction for a comfortable fit.', 'Easy slip-on styling with elastic lace closure for an adjustable fit.')
+INSERT INTO `shoedata`(`Name`, `Cost`, `p1`, `p2`, `p3`, `p4`) VALUES ('Danner 8" Power Foreman Non-Metallic Composite Toe',389.95,'Boasts the long-lasting durability, safety protection, and internal comfort to keep you performing at your best all work day long.','Power Foreman leather upper features a double layer across the forefoot and toe box for additional protection.','Style number 15210 (Brown).', '516S last is designed specifically for boot styles that include a safety toe. ')
+INSERT INTO `shoedata`(`Name`, `Cost`, `p1`, `p2`, `p3`, `p4`) VALUES ('Base London Cameo',148,'The Base London® Cameo ankle boot brings the perfect amount of swagger to your ensemble.','Smooth leather upper.','Lace-up closure with blind eyelets.', 'Soft textile linings.')
+INSERT INTO `shoedata`(`Name`, `Cost`, `p1`, `p2`, `p3`, `p4`) VALUES ('Merrell Moab 2 Vent Mid',109.95,'Hit the trailhead in the breathable, rugged performance of the Merrell® Moab 2 Vent Mid hiking boot.','Mid-cut height for added ankle support.','Suede leather and mesh upper materials.', 'Bellows tongue helps keep debris out.')
+INSERT INTO `shoedata`(`Name`, `Cost`, `p1`, `p2`, `p3`, `p4`) VALUES ('New Balance Fresh Foam Zante Pursuit v1',109.95,'Start fresh in the new year with achievable resolutions and determination with the New Balance® Fresh Foam Zante Pursuit v1.','Support Type: Neutral.','Cushioning: High energizing cushioning.', 'Surface: Road.')
+INSERT INTO `shoedata`(`Name`, `Cost`, `p1`, `p2`, `p3`, `p4`) VALUES ('Merrell Vapor Glove 4 3D',129.95,'The Merrell® Vapor Glove 4 3D barefoot running shoes are made to keep your feet protected while still providing excellent contact with the ground.','3D knit upper for 360-degree sock-like fit.','Minimalist running shoe with a glove-like construction and zero drop.', 'Vegan-friendly construction uses 0% animal products.')
+
+
+Shoe 1 - Tory Burch Metal Miller - $228
+
+The Metal Miller sandal by Tory Burch® adds bold refinement to your signature-look!
+Upper is constructed of genuine leather.
+Tory Burch® emblem adorns the upper.
+Easy slip-on design with classic thong-strap styling.
+
+
+
+
+Shoe 2 - ALDO Gaclya - $84.95
+
+A sleek silhouette you can wear day or night.
+Heeled sandals feature an interwoven leather upper.
+Ankle strap with buckle closure.
+Open-toe silhouette.
+
+Shoe 3 - Blue by Betsey Johnson Mari Heeled Sandal - $109
+
+Step in the room and shine in the stunning BLUE™ by Betsey Johnson Mari Heeled Sandals.
+Upper made of fabric with sparkling rhinestone detail.
+Buckle closure at ankle.
+Synthetic lining.
+
+
+
+Shoe 4 - SOREL Out N About™ Plus Sneaker - $94.95
+
+Don't let clouds or light rain stop you in your tracks. Rock the SOREL® Out N About™ Plus Sneakers and head outside.
+Waterproof suede or textile upper.
+Bootie construction with front and rear pull-tabs.
+Lace-up closure.
+
+
+
+
+Shoe 5 - adidas Originals U_Path Run W - $85
+
+Make tracks with the sporty style of the adidas® Originals U_Path Run W.
+Stretch knit upper offers a lightweight feel with a sleek finish.
+Bootie construction for a comfortable fit.
+Easy slip-on styling with elastic lace closure for an adjustable fit.
+
+
+Shoe 6 - Danner 8" Power Foreman Non-Metallic Composite Toe - $389.95
+
+Boasts the long-lasting durability, safety protection, and internal comfort to keep you performing at your best all work day long.
+Power Foreman leather upper features a double layer across the forefoot and toe box for additional protection.
+Style number 15210 (Brown).
+516S last is designed specifically for boot styles that include a safety toe. 
+
+
+
+Shoe 7 - Base London Cameo- $148
+
+The Base London® Cameo ankle boot brings the perfect amount of swagger to your ensemble.
+Smooth leather upper.
+Lace-up closure with blind eyelets.
+Soft textile linings.
+
+
+
+Shoe 8 - Merrell Moab 2 Vent Mid- $109.95
+
+Hit the trailhead in the breathable, rugged performance of the Merrell® Moab 2 Vent Mid hiking boot.
+Mid-cut height for added ankle support.
+Suede leather and mesh upper materials.
+Bellows tongue helps keep debris out.
+
+
+
+Shoe 9 - New Balance Fresh Foam Zante Pursuit v1 - $109.95
+
+Start fresh in the new year with achievable resolutions and determination with the New Balance® Fresh Foam Zante Pursuit v1.
+Support Type: Neutral.
+Cushioning: High energizing cushioning.
+Surface: Road.
+
+
+
+Shoe 10 - Merrell Vapor Glove 4 3D - $129.95
+
+The Merrell® Vapor Glove 4 3D barefoot running shoes are made to keep your feet protected while still providing excellent contact with the ground.
+3D knit upper for 360-degree sock-like fit.
+Minimalist running shoe with a glove-like construction and zero drop.
+Vegan-friendly construction uses 0% animal products.
+
+
+
